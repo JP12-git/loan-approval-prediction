@@ -7,7 +7,7 @@ import pandas as pd
 model = joblib.load('Preprocessing and Model.pkl')
 feature = joblib.load('Feature.pkl')
 
-st.set_page_config(page_title='Loan Risk Prediction',layout='centered',initial_sidebar_state='expanded')
+st.set_page_config(page_title='Loan Approval Prediction',layout='centered',initial_sidebar_state='expanded')
 st.title("🏦 Loan Approval Prediction 💰")
 st.write(' 📝 Enter The Candidate Information Below ⤵️')
 
