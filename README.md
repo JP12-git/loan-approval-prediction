@@ -1,4 +1,4 @@
-# Loan Risk Prediction
+# Loan Approval Prediction
 
 This repository contains a **Machine Learning project for Loan Risk Prediction** using Python and Streamlit.
 
