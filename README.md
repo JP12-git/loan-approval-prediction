@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-This repository contains a **Machine Learning project for Loan Risk Prediction** using Python and Streamlit.
+This repository contains a **Machine Learning project for Loan Approval Prediction** using Python and Streamlit.
 
 ## 📁 Repository Contents
 
@@ -14,7 +14,7 @@ This folder contains:
 
 ### `app.py`
 
-The **Streamlit web application** used to create the interactive Loan Risk Prediction webpage.
+The **Streamlit web application** used to create the interactive Loan Approval Prediction webpage.
 
 ### `features.pkl`
 
@@ -30,11 +30,11 @@ Contains the Python libraries and dependencies required to run the web applicati
 
 ## 🌐 Web Application
 
-The project is deployed on  **Streamlit Platform**, where users can enter the required loan-related information and receive a loan risk prediction.
+The project is deployed on  **Streamlit Platform**, where users can enter the required loan-related information and receive a loan approval prediction.
 
 ## Live Demo 
 
-https://loan-risk-prediction-ml-project.streamlit.app/
+https://loan-approval-prediction--ml--project.streamlit.app/
 
 ## 🛠️ Technologies Used
 
@@ -48,4 +48,4 @@ https://loan-risk-prediction-ml-project.streamlit.app/
 
 ## 🎯 Project Objective
 
-The main objective of this project is to use Machine Learning to predict **loan risk** based on the given input features and provide the prediction through an easy-to-use web application.
+The main objective of this project is to use Machine Learning to predict **loan approval** based on the given input features and provide the prediction through an easy-to-use web application.
