@@ -1,6 +1,7 @@
-# Loan Approval Prediction
-
-This repository contains a **Machine Learning project for Loan Approval Prediction** using Python and Streamlit.
+<div align="center">
+    <img src="images/Loan-Approval-Prediction.jpeg"
+         width="100%">
+</div>
 
 ## 📁 Repository Contents
 
