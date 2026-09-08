@@ -36,9 +36,9 @@ Contains the Python libraries and versions required to run the web application.
          width="100%">
 </div>
 
-## Live Demo 
+## 🚀 Live Demo 
 
-https://loan-approval-prediction--ml--project.streamlit.app/
+https://loan-approval-prediction--ml--project.streamlit.app
 
 ## 🛠️ Technologies Used
 
