@@ -5,33 +5,36 @@
 
 ## 📁 Repository Contents
 
-### `Data, Python File, Documentation/`
+### `Data, Python File, Documentation`
 
 This folder contains:
 
 * Dataset used for the project
 * Python/Jupyter Notebook files
-* Project documentation and related files
+* Project documentation
 
 ### `app.py`
 
 The **Streamlit web application** used to create the interactive Loan Approval Prediction webpage.
 
-### `features.pkl`
+### `Features.pkl`
 
 Contains the required features used by the web application for making predictions.
 
-### `loan_risk_prediction_model.pkl`
+### `Preprocessing and Model.pkl`
 
 Contains the trained Machine Learning model and preprocessing pipeline used for prediction.
 
-### `requirements.txt`
+### `requirements.txt & runtime.txt`
 
-Contains the Python libraries and dependencies required to run the web application.
+Contains the Python libraries and versions required to run the web application.
 
 ## 🌐 Web Application
 
-The project is deployed on  **Streamlit Platform**, where users can enter the required loan-related information and receive a loan approval prediction.
+<div align="center">
+    <img src="images/Loan-Approval-Prediction-web-application.jpeg"
+         width="100%">
+</div>
 
 ## Live Demo 
 
