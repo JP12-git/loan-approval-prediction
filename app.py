@@ -68,7 +68,7 @@ with st.expander("📊 Model Performance"):
         use_container_width=True
     )
 
-    st.markdown("### 🔲 Confusion Matrix")
+    st.markdown("### 🔢 Confusion Matrix")
 
     cm_data = pd.DataFrame(
         [[771, 8],
